@@ -1,0 +1,16 @@
+{
+  "baseUrl": "http://localhost:3000/",
+  "fixturesFolder": "cypress/fixtures",
+  "integrationFolder": "src/__tests__/e2e",
+  "pluginsFile": "cypress/plugins/index.js",
+  "supportFile": "cypress/support/index.js",
+  "screenshotsFolder": "reports/e2eOutput/screenshots",
+  "videosFolder": "reports/e2eOutput/videos",
+  "video": false,
+  "reporter": "junit",
+  "reporterOptions": {
+    "mochaFile": "reports/cypress/my-test-output-[hash].xml"
+  },
+  "viewportWidth": 1920,
+  "viewportHeight": 1080
+}

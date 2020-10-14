@@ -1,0 +1,23 @@
+.searchSuggest {
+  position: absolute;
+  top: 140px;
+  left: 10;
+  z-index: 1;
+  overflow-y: scroll;
+  width: 400px;
+  max-height: 400px;
+  box-shadow: 10px 10px 8px rgba(0, 0, 0, 0.1);
+}
+
+.searchSuggest a {
+  display: block;
+  color: #333;
+}
+
+.searchSuggest li:hover {
+  background-color: #eee;
+}
+
+.searchSuggest a:hover {
+  text-decoration: none;
+}
