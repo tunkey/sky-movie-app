@@ -1,4 +1,4 @@
-# Sky React Interview
+# Movie App
 
 ## Commands
 
