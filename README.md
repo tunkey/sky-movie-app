@@ -8,4 +8,4 @@
 
 - **yarn e2e**: Run end-to-end test with Cypress
 
-* **yarn unit**: Run unit test (I developed only 2 util func, It should be %100 test coverage)
+* **yarn unit**: Run unit test
